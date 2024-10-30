@@ -1,0 +1,5 @@
+ipAddress: "zentic.cc" # your ip address without port
+port: 25565 # Default port
+check_interval: 60 # Checks in seconds
+channel_id: "" # your channel id
+token: "k" # Your bot token
